@@ -73,3 +73,9 @@ body{
     background-position: center;
     background-repeat: 0;
 }
+.cuerpo6{
+    background-image: url("/imagenes/Martin-Garrix.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
