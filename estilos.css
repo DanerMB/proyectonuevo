@@ -79,3 +79,9 @@ body{
     background-position: center;
     background-repeat: 0;
 }
+.cuerpo7{
+    background-image: url("/imagenes/maxresdefault.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
