@@ -55,3 +55,9 @@ body{
     width: 30px ;
     height: 30px ;
 }
+.cuerpo3{
+    background-image: url("imagenes/zGarrix.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
