@@ -1,0 +1,87 @@
+.menu {
+    list-style: none;      
+    padding: 0;
+    margin: 0;
+    background-color: #333;
+    display: flex;     
+    justify-content: center;
+}
+
+.menu li {
+    margin: 0;
+}
+
+.menu a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #555;
+}
+.img {
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("imagenes/avicii-1496218027.41.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.fondo2{
+    background-color: white;
+    width: 70%;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.piedepagina{
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+.cuerpo2{
+    background-image: url("imagenes/15870322460206.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.imagen{
+    width: 30px ;
+    height: 30px ;
+}
+.cuerpo3{
+    background-image: url("imagenes/zGarrix.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.cuerpo4{
+    background-image: url("imagenes/livestream.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.cuerpo5{
+    background-image: url("imagenes/captura-de-pantalla-2014-05-23-a-las-00-12-13.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.cuerpo6{
+    background-image: url("/imagenes/Martin-Garrix.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
+.cuerpo7{
+    background-image: url("/imagenes/maxresdefault.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: 0;
+}
